@@ -1,0 +1,25 @@
+{
+    "name": "Katie Roth",
+    "age": 31,
+    "address": {
+        "street": "William Squares",
+        "city": "South Lisaburgh",
+        "state": "Tennessee",
+        "zip": "33289"
+    },
+    "contact": {
+        "phone": "254.825.2650x70434",
+        "servicePhone": "800119162"
+    },
+    "birthday": "1994-29-10",
+    "ip": "180.41.146.167",
+    "foo": "bar",
+    "profile": {
+        "about": "Arm whose budget spring per individual.\nBusiness debate senior teacher upon thus. Others either election other allow property. Meeting art peace talk nature.",
+        "bio": "Rate wait discuss business yeah game. Congress positive role shake front official add. Charge capital fact light team their.\nProcess avoid challenge detail. Laugh team bed practice indeed the bad."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
