@@ -1,0 +1,25 @@
+{
+    "name": "Brenda Perez",
+    "age": 82,
+    "address": {
+        "street": "Griffin Falls",
+        "city": "East Christopher",
+        "state": "New Jersey",
+        "zip": "28213"
+    },
+    "contact": {
+        "phone": "472-395-0668",
+        "servicePhone": "800609133"
+    },
+    "birthday": "1943-15-01",
+    "ip": "52.143.163.152",
+    "foo": "bar",
+    "profile": {
+        "about": "Scientist present choice public deal.\nHistory enjoy develop same six fight feeling. Whether appear raise suddenly. Individual game speak anything central customer. Some road class size manage.",
+        "bio": "Skin seem phone concern. Particular far image big. Think the resource social term address.\nTell reality fall modern candidate drug. Well soon issue drive."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}
