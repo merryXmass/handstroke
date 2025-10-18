@@ -1,0 +1,25 @@
+{
+    "name": "Ronald Dodson",
+    "age": 38,
+    "address": {
+        "street": "Chapman Lodge",
+        "city": "Kimton",
+        "state": "Utah",
+        "zip": "54181"
+    },
+    "contact": {
+        "phone": "(356)421-3036x3499",
+        "servicePhone": "800890451"
+    },
+    "birthday": "1987-04-07",
+    "ip": "84.137.226.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Ready about fly fine beyond letter per style. Billion play student base. Can difficult finish investment.",
+        "bio": "Trade rather finish few military support. Box simply throughout experience. Describe story message language interest stand Congress."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
