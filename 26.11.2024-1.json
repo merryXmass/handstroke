@@ -1,0 +1,25 @@
+{
+    "name": "Lori Martin",
+    "age": 55,
+    "address": {
+        "street": "King Skyway",
+        "city": "West Robin",
+        "state": "North Dakota",
+        "zip": "15475"
+    },
+    "contact": {
+        "phone": "+1-637-208-0907x532",
+        "servicePhone": "800327224"
+    },
+    "birthday": "1970-11-12",
+    "ip": "162.91.11.78",
+    "foo": "bar",
+    "profile": {
+        "about": "Rate thing so money. Before everybody believe staff call power hot. Central relationship dog late start second. Seek if most despite natural check weight recognize.",
+        "bio": "Make choose himself. Now trial conference exist their east. Soon suddenly city do.\nFour discuss send expert area able. Admit edge rock sing cell compare."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
