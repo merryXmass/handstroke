@@ -1,0 +1,25 @@
+{
+    "name": "Julie Daniel",
+    "age": 112,
+    "address": {
+        "street": "Gillespie Pike",
+        "city": "West Wanda",
+        "state": "Pennsylvania",
+        "zip": "37986"
+    },
+    "contact": {
+        "phone": "228-212-5400",
+        "servicePhone": "800539328"
+    },
+    "birthday": "1913-30-01",
+    "ip": "144.236.246.32",
+    "foo": "bar",
+    "profile": {
+        "about": "Issue course dream both. Require speech nearly professor. This position story worker true project.",
+        "bio": "Indicate government book word store surface politics never. Buy worker pass believe. Most responsibility land expert wrong assume."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
