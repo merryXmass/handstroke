@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Yang",
+    "age": 15,
+    "address": {
+        "street": "Romero Key",
+        "city": "Lake Patrick",
+        "state": "Washington",
+        "zip": "69972"
+    },
+    "contact": {
+        "phone": "200.794.7370",
+        "servicePhone": "800492334"
+    },
+    "birthday": "2010-05-05",
+    "ip": "136.86.217.63",
+    "foo": "bar",
+    "profile": {
+        "about": "Understand story senior traditional rather dog PM. School bag brother whole city process window.\nAlso in weight family. Position authority ten to establish.",
+        "bio": "Thousand save clear difficult future believe. Pull source major leg leader eight attorney. Create future quite red end."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}

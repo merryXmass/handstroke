@@ -1,0 +1,25 @@
+{
+    "name": "Alexa Mejia",
+    "age": 43,
+    "address": {
+        "street": "Andrew Trail",
+        "city": "Bernardberg",
+        "state": "Arkansas",
+        "zip": "23500"
+    },
+    "contact": {
+        "phone": "+1-703-842-9585x841",
+        "servicePhone": "800263935"
+    },
+    "birthday": "1982-06-09",
+    "ip": "211.220.230.185",
+    "foo": "bar",
+    "profile": {
+        "about": "Student prepare fear opportunity summer. Southern board on. Couple add them ability rather environment hour.",
+        "bio": "Method color crime. Final remain career success national talk write.\nOk difficult soldier happy election resource free once. Stop morning end."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
