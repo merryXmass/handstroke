@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Murray",
+    "age": 7,
+    "address": {
+        "street": "Parker Port",
+        "city": "Gailbury",
+        "state": "Iowa",
+        "zip": "29068"
+    },
+    "contact": {
+        "phone": "+1-827-783-6220x834",
+        "servicePhone": "800469701"
+    },
+    "birthday": "2018-31-08",
+    "ip": "143.186.227.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Marriage moment measure too. Article audience draw sea see message world. Dog dinner note above yes.\nBoth civil enjoy wife. Threat result dog husband ask. Total fact identify.",
+        "bio": "Could human old green. Cover strategy stage something. Every but on hour generation."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
